@@ -1,7 +1,3 @@
-Sure, here's a more detailed README with instructions, assuming the user is on Windows:
-
----
-
 # Notary Gadget Auto-Clicker
 
 ## Introduction
