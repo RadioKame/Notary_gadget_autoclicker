@@ -1,4 +1,4 @@
-Notary Gadget Auto-Clicker
+## Notary Gadget Auto-Clicker
 
 I have been using Notary Gadget for a while, but a few years ago, I became lazy about updating the database. With more than 500 entries to update, I knew I would never find the willingness to do it manually. Hence, I created this auto-clicker script.
 
